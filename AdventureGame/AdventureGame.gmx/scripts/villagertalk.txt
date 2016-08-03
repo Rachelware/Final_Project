@@ -1,0 +1,5 @@
+//when villager clicked
+
+mb_any
+
+//When talk option chosen
